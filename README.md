@@ -1,2 +1,2 @@
-# hello-world
-Hello World Public Repo
+# Hello World: Public Test Repo
+This is a test/hello world public repository.
